@@ -25,11 +25,6 @@ public class PageController {
 	@Autowired
 	WorkStudentService workStudentService;
 	
-	@RequestMapping(value="/workStudent")
-	public String workStudent(){
-		return "workStudent";
-	}
-	
 	@RequestMapping(value="/uiPage")
 	public String uiPage(){
 		return "UIProduct";
@@ -38,13 +33,6 @@ public class PageController {
 	@RequestMapping(value="/unityPage")
 	public String unityPage(){
 		return "Unity";
-	}
-	
-	@RequestMapping(value="/workStudentPage",method=RequestMethod.GET)
-	public String workStudentPage(HttpServletRequest request){
-		List<WorkStudentModel> list = workStudentService.searchPage();
-		request.setAttribute("pageList", list);
-		return "workStudent";
 	}
 
     @RequestMapping(value="/selectAction" )      

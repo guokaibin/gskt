@@ -84,74 +84,59 @@
 			</div>
 		</div>
 
-		<!--mobile header start-->
+		<!--  mobile 端侧边栏  -->
 		<div class="m-header">
 			<div class="am-g am-show-sm-only">
 				<div class="am-u-sm-2">
 					<div class="menu-bars">
-						<a href="#doc-oc-demo1" data-am-offcanvas="{effect: 'push'}"><i
-							class="am-menu-toggle-icon am-icon-bars"></i></a>
+						<a href="#doc-oc-demo1" data-am-offcanvas="{effect: 'push'}">
+							<i class="am-menu-toggle-icon am-icon-bars"></i>
+						</a>
 						<!-- 侧边栏内容 -->
 						<nav data-am-widget="menu" class="am-menu  am-menu-offcanvas1"
 							data-am-menu-offcanvas> <a href="javascript: void(0)"
 							class="am-menu-toggle"></a>
+
 						<div class="am-offcanvas">
 							<div class="am-offcanvas-bar">
 								<ul class="am-menu-nav am-avg-sm-1">
-									<li><a href="index.html" class="">首页</a></li>
-									<li class="am-parent"><a href="#" class="">产品中心</a>
+									<li><a href=index.jsp " class="">首页</a></li>
+									<li class="am-parent"><a href="#" class="">课程</a>
 										<ul class="am-menu-sub am-collapse ">
-											<li class=""><a href="./product1.html" class="">产品展示1</a>
-											</li>
-											<li class=""><a href="./product2.html" class="">产品展示2</a>
-											</li>
-											<li class=""><a href="./product3.html" class="">产品展示3</a>
-											</li>
+											<li class=""><a href="uiPage" class="">平面设计</a></li>
+											<li class=""><a href="uiPage" class="">网页设计</a></li>
+											<li class=""><a href="uiPage" class="">移动端设计</a></li>
+											<li class=""><a href="unityPage" class="">VR开发</a></li>
+											<li class=""><a href="unityPage" class="">Unity开发</a></li>
 										</ul></li>
-									<li class=""><a href="./example.html" class="">客户案例</a></li>
-									<li class=""><a href="./solution.html" class="">解决方案</a></li>
-									<li class="am-parent"><a href="./news.html" class="">新闻中心</a>
-										<ul class="am-menu-sub am-collapse  ">
-											<li class=""><a href="./news-content.html" class="">公司动态</a>
-											</li>
-											<li class=""><a href="./404-dark.html" class="">行业动态</a>
-											</li>
-											<li class=""><a href="./404-light.html" class="">精彩专题</a>
-											</li>
-										</ul></li>
-									<li class=""><a href="./about.html" class="">关于我们</a></li>
-									<li class=""><a href="./join.html" class="">加入我们</a></li>
-									<li class=""><a href="./contact.html" class="">联系我们</a></li>
-									<li class="am-parent"><a href="./news.html"
-										class="nav-icon nav-icon-globe">Language</a>
-										<ul class="am-menu-sub am-collapse  ">
-											<li><a href="#">English</a></li>
-											<li class=""><a href="#">Chinese</a></li>
-										</ul></li>
-									<li class="nav-share-contain">
-										<div class="nav-share-links">
-											<i class="am-icon-facebook"></i> <i class="am-icon-twitter"></i>
-											<i class="am-icon-google-plus"></i> <i
-												class="am-icon-pinterest"></i> <i class="am-icon-instagram"></i>
-											<i class="am-icon-linkedin"></i> <i
-												class="am-icon-youtube-play"></i> <i class="am-icon-rss"></i>
-										</div>
+									<li class=""><a href="selectAction?pageSize=12" class="">就业学子</a>
 									</li>
-									<li class=""><a href="./login.html" class="">登录</a></li>
-									<li class=""><a href="./register.html" class="">注册</a></li>
+									<li class=""><a href="html/solution.html" class="">教程</a>
+									</li>
+									<li class="am-parent"><a href="html/news.html" class="">企业动态</a>
+										<ul class="am-menu-sub am-collapse  ">
+											<li class=""><a href="html/404-dark.html" class="">行业动态</a>
+											</li>
+											<li class=""><a href="html/404-light.html" class="">就业动态</a>
+											</li>
+										</ul></li>
+									<li class=""><a href="html/about.html" class="">我们的故事</a>
+									</li>
 								</ul>
 							</div>
 						</div>
 						</nav>
+
 					</div>
 				</div>
 				<div class="am-u-sm-5 am-u-end">
 					<div class="m-logo">
-						<a href=""><img src="assets/images/logo.png" alt=""></a>
+						<a href=""> <img src="assets/images/logo.png" alt="">
+						</a>
 					</div>
 				</div>
 			</div>
-			<!--mobile header end-->
+			<!--mobile-->
 		</div>
 
 		<div class="section"

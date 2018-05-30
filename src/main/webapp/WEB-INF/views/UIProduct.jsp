@@ -85,21 +85,16 @@
 						<div class="am-offcanvas">
 							<div class="am-offcanvas-bar">
 								<ul class="am-menu-nav am-avg-sm-1">
-									<li><a href="./index.html" class="">首页</a></li>
+									<li><a href=index.jsp " class="">首页</a></li>
 									<li class="am-parent"><a href="#" class="">课程</a>
 										<ul class="am-menu-sub am-collapse ">
-											<li class=""><a href="html/uiCurriculum.html" class="">平面设计</a>
-											</li>
-											<li class=""><a href="html/product2.html" class="">网页设计</a>
-											</li>
-											<li class=""><a href="html/product3.html" class="">移动端设计</a>
-											</li>
-											<li class=""><a href="html/product3.html" class="">VR开发</a>
-											</li>
-											<li class=""><a href="html/product3.html" class="">Unity开发</a>
-											</li>
+											<li class=""><a href="uiPage" class="">平面设计</a></li>
+											<li class=""><a href="uiPage" class="">网页设计</a></li>
+											<li class=""><a href="uiPage" class="">移动端设计</a></li>
+											<li class=""><a href="unityPage" class="">VR开发</a></li>
+											<li class=""><a href="unityPage" class="">Unity开发</a></li>
 										</ul></li>
-									<li class=""><a href="html/example.html" class="">就业学子</a>
+									<li class=""><a href="selectAction?pageSize=12" class="">就业学子</a>
 									</li>
 									<li class=""><a href="html/solution.html" class="">教程</a>
 									</li>
@@ -287,7 +282,7 @@
 			</div>
 
 			<div class="product3-show-container"
-				style="background: url(assets/images/UI/图层-15.png)">
+				style="background: url(assets/images/UI/15.png)">
 				<div class="container">
 					<div class="am-g">
 

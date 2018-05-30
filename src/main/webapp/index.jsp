@@ -103,30 +103,30 @@
                 <div class="am-offcanvas-bar">
                   <ul class="am-menu-nav am-avg-sm-1">
                     <li>
-                      <a href="./index.html" class="">首页</a>
+                      <a href=index.jsp" class="">首页</a>
                     </li>
                     <li class="am-parent">
                       <a href="#" class="">课程</a>
                       <ul class="am-menu-sub am-collapse ">
                         <li class="">
-                          <a href="html/UIProduct.html" class="">平面设计</a>
+                          <a href="uiPage" class="">平面设计</a>
                         </li>
                         <li class="">
-                          <a href="html/UIProduct.html" class="">网页设计</a>
+                          <a href="uiPage" class="">网页设计</a>
                         </li>
                         <li class="">
-                          <a href="html/UIProduct.html" class="">移动端设计</a>
+                          <a href="uiPage" class="">移动端设计</a>
                         </li>
                         <li class="">
-                          <a href="html/UnityProduct.html" class="">VR开发</a>
+                          <a href="unityPage" class="">VR开发</a>
                         </li>
                         <li class="">
-                          <a href="html/UnityProduct.html" class="">Unity开发</a>
+                          <a href="unityPage" class="">Unity开发</a>
                         </li>
                       </ul>
                     </li>
                     <li class="">
-                      <a href="html/example.html" class="">就业学子</a>
+                      <a href="selectAction?pageSize=12" class="">就业学子</a>
                     </li>
                     <li class="">
                       <a href="html/solution.html" class="">教程</a>
@@ -1093,6 +1093,8 @@
         </div>
       </div>
     </div>
+    
+    
     <script src="assets/js/jquery-2.1.0.js " charset="utf-8 "></script>
     <script src="assets/js/amazeui.js " charset="utf-8 "></script>
     <script src="assets/js/common.js " charset="utf-8 "></script>
