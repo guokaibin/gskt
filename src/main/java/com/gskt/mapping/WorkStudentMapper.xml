@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.gskt.dao.WorkStudentMapper" >
+     
+    <select id="findWorkStudentByPage" resultType="com.gskt.model.WorkStudentModel">
+    	SELECT * from t_workstudent 
+    	limit 1,8
+	</select>
+ 	
+	<select id="countPage" resultType="Integer" >
+    	SELECT count(1) from t_workstudent  
+	</select> 
+	<!--  -->
+	<select id="selectByWorkStudent" parameterType="java.util.Map" resultType="com.gskt.model.WorkStudentModel">  
+       select   *  
+        from t_workstudent  
+        limit #{pageNum},#{pageSize}  
+  	</select> 
+  	 
+</mapper>

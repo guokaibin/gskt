@@ -1,0 +1,142 @@
+.layout .section
+{
+    padding-left: 0;
+    padding-right: 0;
+}
+.section_2 {
+    background-color: #f4f4f4;
+    padding-top: 80px;
+    padding-bottom: 1px;
+}
+
+.section .section--header .section--title {
+    font-size: 29px;
+    font-weight: bold;
+    /* 设置字体的粗体 */
+    text-align: center;
+    /* 文字对齐方式 */
+    font-family: "MicrosoftYaher";
+    color: #ff9d12;
+}
+
+.section .section--header .section--description {
+    font-size: 20px;
+    line-height: 30px;
+    color: #9b9b9b;
+    text-align: center;
+    margin: 13px 0 0
+}
+
+/* .o2o-container2 .am-g .am-u-md-4
+{
+    margin: 0 20px;
+} */
+
+.o2o-container2 .am-g {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.o2o-content2 {
+    text-align: center;
+    /* margin: 20px 0; */
+    padding: 30px 40px;
+    /* padding-bottom: 20px; */
+}
+
+.o2o-content2 h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333333;
+    font-family: "MicrosoftYaher";
+}
+
+.o2o-content2 p {
+    font-size: 14px;
+    color: #666666;
+    font-family: "MicrosoftYaher";
+}
+
+.o2o-container .am-g .am-u-md-4 {
+    margin: 10px 0;
+    padding: 0 10px;
+    height: 100%;
+}
+
+.o2o-container .am-g .am-u-md-4 .o2o-box {
+    height: 100%;
+}
+
+.section_2 .product3-show-container .container {
+    padding-top: 70px;
+    padding-bottom: 120px;
+    margin-top: 40px;
+}
+
+.section_2 .product3-show-container .container .am-g .product3-show-box .am-g .product3-show-content {
+    padding: 30px 0;
+}
+
+.section_2 .product3-show-container .container .am-g .product3-show-box .am-g .product3-show-content h6 {
+    font-size: 16px;
+    color: #333333;
+    font-family: "MicrosoftYaher";
+}
+
+.section_2 .product3-show-container .container .am-g .product3-show-box .am-g .product3-show-content p {
+    font-size: 13px;
+    color: #666666;
+    font-family: "MicrosoftYaher";
+}
+
+.section_2 .product3-show-container .container .am-g .product3-show-box .am-g .am-u-md-4 {
+    padding-left: 0;
+}
+
+.section_2 .container .student_info_form table thead tr {
+    background-color: #ff9d12;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+/* 无限滑动效果 */
+
+@keyframes rowup {
+    0% {
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+    100% {
+        -webkit-transform: translate3d(0, -210px, 0);
+        transform: translate3d(0, -210px, 0);
+    }
+}
+
+/* .student_info_form{
+    width: 1200px;
+    border-bottom: 1px solid #999;
+    margin: 20px auto;
+    position: relative;
+    height: 200px;
+    overflow: hidden;
+} */
+
+.student_info_form .rowup {
+    -webkit-animation: 15s rowup linear infinite normal;
+    animation: 15s rowup linear infinite normal;
+    position: relative;
+}
+
+.o2o-content p {
+    padding: 0px 20px;
+}
+
+.o2o-unity-bg {
+    margin: 0 0;
+    padding: 100px 0 0 0;
+    width: 100%;
+    height: 618px;
+    background: url(../images/UI/图层-15.png)
+}
