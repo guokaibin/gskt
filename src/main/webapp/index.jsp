@@ -103,7 +103,7 @@
                 <div class="am-offcanvas-bar">
                   <ul class="am-menu-nav am-avg-sm-1">
                     <li>
-                      <a href=index.jsp" class="">首页</a>
+                      <a href="index.jsp" class="">首页</a>
                     </li>
                     <li class="am-parent">
                       <a href="#" class="">课程</a>
@@ -360,7 +360,7 @@
             <div class="am-u-md-3 ">
               <div class="features_item index-whitebottom ">
                 <div class="index-classitem ">
-                  <a href="html/UIProduct.html">
+                  <a href="uiPage">
                     <img src="assets/images/index/ui-1.png " alt=" ">
                   </a>
                   <div class="index-classitem-bottom ">
@@ -379,7 +379,7 @@
             <div class="am-u-md-3 ">
               <div class="features_item index-whitebottom ">
                 <div class="index-classitem ">
-                  <a href="html/UIProduct.html">
+                  <a href="uiPage">
                     <img src="assets/images/index/ui-2.png " alt=" ">
                   </a>
                   <div class="index-classitem-bottom ">
@@ -400,7 +400,7 @@
             <div class="am-u-md-3 ">
               <div class="features_item index-whitebottom ">
                 <div class="index-classitem ">
-                  <a href="html/UIProduct.html">
+                  <a href="uiPage">
                     <img src="assets/images/index/ui-3.png " alt=" ">
                   </a>
                   <div class="index-classitem-bottom ">
@@ -419,7 +419,7 @@
             <div class="am-u-md-3 ">
               <div class="features_item index-whitebottom ">
                 <div class="index-classitem ">
-                  <a href="html/UIProduct.html">
+                  <a href="uiPage">
                     <img src="assets/images/index/ui-4.png " alt=" ">
                   </a>
                   <div class="index-classitem-bottom ">
@@ -440,7 +440,7 @@
             <div class="am-u-md-3 ">
               <div class="features_item index-whitebottom ">
                 <div class="index-classitem ">
-                  <a href="html/UIProduct.html">
+                  <a href="uiPage">
                     <img src="assets/images/index/ui-5.png " alt=" ">
                   </a>
                   <div class="index-classitem-bottom ">
@@ -459,7 +459,7 @@
             <div class="am-u-md-3 ">
               <div class="features_item index-whitebottom ">
                 <div class="index-classitem ">
-                  <a href="html/UIProduct.html">
+                  <a href="uiPage">
                     <img src="assets/images/index/ui-6.png " alt=" ">
                   </a>
                   <div class="index-classitem-bottom ">
@@ -478,7 +478,7 @@
             <div class="am-u-md-3 ">
               <div class="features_item index-whitebottom ">
                 <div class="index-classitem ">
-                  <a href="html/UIProduct.html">
+                  <a href="uiPage">
                     <img src="assets/images/index/ui-7.png " alt=" ">
                   </a>
                   <div class="index-classitem-bottom ">
@@ -497,7 +497,7 @@
             <div class="am-u-md-3 ">
               <div class="features_item index-whitebottom ">
                 <div class="index-classitem ">
-                  <a href="html/UIProduct.html">
+                  <a href="uiPage">
                     <img src="assets/images/index/ui-8.png " alt=" ">
                   </a>
                   <div class="index-classitem-bottom ">

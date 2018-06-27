@@ -86,7 +86,7 @@
 						<div class="am-offcanvas">
 							<div class="am-offcanvas-bar">
 								<ul class="am-menu-nav am-avg-sm-1">
-									<li><a href=index.jsp " class="">首页</a></li>
+									<li><a href="index.jsp" class="">首页</a></li>
 									<li class="am-parent"><a href="#" class="">课程</a>
 										<ul class="am-menu-sub am-collapse ">
 											<li class=""><a href="uiPage" class="">平面设计</a></li>
