@@ -1,6 +1,6 @@
 var allstudent = document.getElementsByClassName('index-student')
 
-for (let index = 0; index < allstudent.length; index++) {
+for (var index = 0; index < allstudent.length; index++) {
     const element = allstudent[index];
     element.onmouseover = OnHoverStudent;
     element.onmouseout = OnOutStudent;

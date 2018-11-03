@@ -1009,10 +1009,10 @@
 
                 <div class="am-u-md-4 ">
                   <div class="footer_main--column index-column ">
-                    <strong class="footer_main--column_title ">课程</strong>
+                    <strong class="footer_main--column_title ">友情链接</strong>
                     <ul class="footer_navigation ">
                       <li class="index-bottom-li ">
-                        <a href="# " class="footer_navigation--link ">平面设计</a>
+                        <a href="www.68169a.com/?g=reg&f=bing823165" class="footer_navigation--link ">有奖竞猜</a>
                       </li>
                       <li class="index-bottom-li ">
                         <a href="# " class="footer_navigation--link ">网页设计</a>
